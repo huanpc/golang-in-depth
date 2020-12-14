@@ -12,4 +12,8 @@ To draw after.
   - [ ] Channel
 - [ ] Scheduler
 - [ ] Memory model
+  - [ ] Garbage Collector
 - [ ] Networking
+  - [ ] Net poller
+- [ ] Compiler
+
