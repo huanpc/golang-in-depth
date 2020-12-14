@@ -5,7 +5,6 @@ A study of Golang
 To draw after.
 
 ## Topics
-- [ ] Project structure
 - [ ] Data Structures and Data Types
 - [ ] Concurrency
   - [ ] Goroutine
