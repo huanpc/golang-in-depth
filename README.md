@@ -21,3 +21,7 @@ To draw after.
   - [ ] Net poller
 - [ ] Compiler
 
+
+## References
+
+- https://github.com/emluque/golang-internals-resources
