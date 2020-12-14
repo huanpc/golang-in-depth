@@ -6,6 +6,11 @@ To draw after.
 
 ## Topics
 - [ ] Data Structures and Data Types
+  - [ ] Nil type
+  - [ ] Struct
+  - [ ] Slice
+  - [ ] Map
+  - [ ] Interface
 - [ ] Concurrency
   - [ ] Goroutine
   - [ ] Channel
