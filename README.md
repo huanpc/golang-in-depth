@@ -17,6 +17,7 @@ To draw after.
 - [ ] Scheduler
 - [ ] Memory model
   - [ ] Garbage Collector
+  - [ ] Go stack
 - [ ] Networking
   - [ ] Net poller
 - [ ] Compiler
